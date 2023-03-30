@@ -2,17 +2,17 @@
 const planos = [{
   "titulo":"Bronze",
   "preco":"R$20,00 por mês",
-  "descricao":"sdsaddsda"
+  "descricao":"descrição1"
 },
 {
   "titulo":"Prata",
   "preco":"R$50,00 por mês",
-  "descricao":"sdsaddsda"
+  "descricao":"descrição2"
 },
 {
   "titulo":"Ouro",
   "preco":"R$70,00 por mês",
-  "descricao":"sdsaddsda"
+  "descricao":"descrição3"
 }
 ]
 
